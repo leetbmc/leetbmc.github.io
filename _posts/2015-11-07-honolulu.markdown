@@ -1,0 +1,7 @@
+---
+layout: post
+title: Honolulu
+date: 2015-11-07 10:47:57
+categories: locations friends
+---
+Put a post here about leaving SF and being in HI.
